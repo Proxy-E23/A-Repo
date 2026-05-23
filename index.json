@@ -1,1 +1,81 @@
-[]
+[
+  {
+    "name": "Aniyomi: Google Drive",
+    "pkg": "eu.kanade.tachiyomi.animeextension.all.googledrive",
+    "apk": "aniyomi-all.googledrive-v14.17.apk",
+    "lang": "all",
+    "code": 17,
+    "version": "14.17",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Google Drive",
+        "lang": "all",
+        "id": "4222017068256633289",
+        "baseUrl": "https://drive.google.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: GoogleDriveIndex",
+    "pkg": "eu.kanade.tachiyomi.animeextension.all.googledriveindex",
+    "apk": "aniyomi-all.googledriveindex-v14.7.apk",
+    "lang": "all",
+    "code": 7,
+    "version": "14.7",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "GoogleDriveIndex",
+        "lang": "all",
+        "id": "7558489246571085102",
+        "baseUrl": "",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: Nyaa (Torrent)",
+    "pkg": "eu.kanade.tachiyomi.animeextension.all.nyaatorrent",
+    "apk": "aniyomi-all.nyaatorrent-v14.4.apk",
+    "lang": "all",
+    "code": 4,
+    "version": "14.4",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Nyaa (Torrent)",
+        "lang": "all",
+        "id": "5310001068353260432",
+        "baseUrl": "https://nyaa.si/",
+        "versionId": 1
+      },
+      {
+        "name": "Nyaa Sukebein (Torrent)",
+        "lang": "all",
+        "id": "9136480360798112194",
+        "baseUrl": "https://sukebei.nyaa.si/",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: BeatZ Anime",
+    "pkg": "eu.kanade.tachiyomi.animeextension.es.beatzanime",
+    "apk": "aniyomi-es.beatzanime-v14.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "BeatZ Anime",
+        "lang": "es",
+        "id": "27781270364033644",
+        "baseUrl": "https://www.beatz-anime.net",
+        "versionId": 1
+      }
+    ]
+  }
+]
