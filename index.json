@@ -1,5 +1,23 @@
 [
   {
+    "name": "Aniyomi: Collected Notes",
+    "pkg": "eu.kanade.tachiyomi.animeextension.all.collectednotes",
+    "apk": "aniyomi-all.collectednotes-v14.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Collected Notes",
+        "lang": "all",
+        "id": "1868335763981784891",
+        "baseUrl": "https://collectednotes.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Google Drive",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.googledrive",
     "apk": "aniyomi-all.googledrive-v14.19.apk",
