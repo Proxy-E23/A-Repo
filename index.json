@@ -113,5 +113,23 @@
         "versionId": 1
       }
     ]
+  },
+  {
+    "name": "Aniyomi: Wing Zero Plus",
+    "pkg": "eu.kanade.tachiyomi.animeextension.es.wingzeroplus",
+    "apk": "aniyomi-es.wingzeroplus-v14.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Wing Zero Plus",
+        "lang": "es",
+        "id": "5551307572624250941",
+        "baseUrl": "https://plus.wing-zero-network.org",
+        "versionId": 1
+      }
+    ]
   }
 ]
