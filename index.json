@@ -36,24 +36,6 @@
     ]
   },
   {
-    "name": "Aniyomi: GoogleDriveIndex",
-    "pkg": "eu.kanade.tachiyomi.animeextension.all.googledriveindex",
-    "apk": "aniyomi-all.googledriveindex-v14.7.apk",
-    "lang": "all",
-    "code": 7,
-    "version": "14.7",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "GoogleDriveIndex",
-        "lang": "all",
-        "id": "7558489246571085102",
-        "baseUrl": "",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Aniyomi: MediaFire",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.mediafire",
     "apk": "aniyomi-all.mediafire-v14.4.apk",
