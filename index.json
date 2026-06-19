@@ -2,10 +2,10 @@
   {
     "name": "Aniyomi: Collected Notes",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.collectednotes",
-    "apk": "aniyomi-all.collectednotes-v14.2.apk",
+    "apk": "aniyomi-all.collectednotes-v14.3.apk",
     "lang": "all",
-    "code": 2,
-    "version": "14.2",
+    "code": 3,
+    "version": "14.3",
     "nsfw": 0,
     "sources": [
       {
@@ -20,10 +20,10 @@
   {
     "name": "Aniyomi: Google Drive",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.googledrive",
-    "apk": "aniyomi-all.googledrive-v14.20.apk",
+    "apk": "aniyomi-all.googledrive-v14.21.apk",
     "lang": "all",
-    "code": 20,
-    "version": "14.20",
+    "code": 21,
+    "version": "14.21",
     "nsfw": 0,
     "sources": [
       {
@@ -99,10 +99,10 @@
   {
     "name": "Aniyomi: Wing Zero Plus",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.wingzeroplus",
-    "apk": "aniyomi-es.wingzeroplus-v14.1.apk",
+    "apk": "aniyomi-es.wingzeroplus-v14.2.apk",
     "lang": "es",
-    "code": 1,
-    "version": "14.1",
+    "code": 2,
+    "version": "14.2",
     "nsfw": 0,
     "sources": [
       {
