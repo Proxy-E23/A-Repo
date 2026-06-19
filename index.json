@@ -99,10 +99,10 @@
   {
     "name": "Aniyomi: Wing Zero Plus",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.wingzeroplus",
-    "apk": "aniyomi-es.wingzeroplus-v14.2.apk",
+    "apk": "aniyomi-es.wingzeroplus-v14.3.apk",
     "lang": "es",
-    "code": 2,
-    "version": "14.2",
+    "code": 3,
+    "version": "14.3",
     "nsfw": 0,
     "sources": [
       {
