@@ -56,10 +56,10 @@
   {
     "name": "Aniyomi: Nyaa (Torrent)",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.nyaatorrent",
-    "apk": "aniyomi-all.nyaatorrent-v14.10.apk",
+    "apk": "aniyomi-all.nyaatorrent-v14.11.apk",
     "lang": "all",
-    "code": 10,
-    "version": "14.10",
+    "code": 11,
+    "version": "14.11",
     "nsfw": 1,
     "sources": [
       {
