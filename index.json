@@ -97,6 +97,24 @@
     ]
   },
   {
+    "name": "Aniyomi: Vampir no Fansub",
+    "pkg": "eu.kanade.tachiyomi.animeextension.es.vampirnofansub",
+    "apk": "aniyomi-es.vampirnofansub-v14.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Vampir no Fansub",
+        "lang": "es",
+        "id": "3298092214692314234",
+        "baseUrl": "https://vampirnofansubs2.wordpress.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Wing Zero Plus",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.wingzeroplus",
     "apk": "aniyomi-es.wingzeroplus-v14.4.apk",
