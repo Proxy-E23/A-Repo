@@ -54,6 +54,24 @@
     ]
   },
   {
+    "name": "Aniyomi: MEGA",
+    "pkg": "eu.kanade.tachiyomi.animeextension.all.meganz",
+    "apk": "aniyomi-all.meganz-v14.2.apk",
+    "lang": "all",
+    "code": 2,
+    "version": "14.2",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "MEGA",
+        "lang": "all",
+        "id": "444735678680652717",
+        "baseUrl": "https://mega.nz",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Nyaa (Torrent)",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.nyaatorrent",
     "apk": "aniyomi-all.nyaatorrent-v14.13.apk",
