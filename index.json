@@ -99,10 +99,10 @@
   {
     "name": "Aniyomi: BeatZ Anime",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.beatzanime",
-    "apk": "aniyomi-es.beatzanime-v14.2.apk",
+    "apk": "aniyomi-es.beatzanime-v14.3.apk",
     "lang": "es",
-    "code": 2,
-    "version": "14.2",
+    "code": 3,
+    "version": "14.3",
     "nsfw": 0,
     "sources": [
       {
