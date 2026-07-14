@@ -56,10 +56,10 @@
   {
     "name": "Aniyomi: MEGA",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.meganz",
-    "apk": "aniyomi-all.meganz-v14.2.apk",
+    "apk": "aniyomi-all.meganz-v14.4.apk",
     "lang": "all",
-    "code": 2,
-    "version": "14.2",
+    "code": 4,
+    "version": "14.4",
     "nsfw": 0,
     "sources": [
       {
