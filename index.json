@@ -115,6 +115,24 @@
     ]
   },
   {
+    "name": "Aniyomi: FallenSubs",
+    "pkg": "eu.kanade.tachiyomi.animeextension.es.fallensubs",
+    "apk": "aniyomi-es.fallensubs-v14.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "FallenSubs",
+        "lang": "es",
+        "id": "2518834048792930513",
+        "baseUrl": "https://www.fallensubs.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Vampir no Fansub",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.vampirnofansub",
     "apk": "aniyomi-es.vampirnofansub-v14.1.apk",
