@@ -20,10 +20,10 @@
   {
     "name": "Aniyomi: Google Drive",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.googledrive",
-    "apk": "aniyomi-all.googledrive-v14.23.apk",
+    "apk": "aniyomi-all.googledrive-v14.24.apk",
     "lang": "all",
-    "code": 23,
-    "version": "14.23",
+    "code": 24,
+    "version": "14.24",
     "nsfw": 0,
     "sources": [
       {
