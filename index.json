@@ -115,6 +115,24 @@
     ]
   },
   {
+    "name": "Aniyomi: DantalianSubs",
+    "pkg": "eu.kanade.tachiyomi.animeextension.es.dantaliansubs",
+    "apk": "aniyomi-es.dantaliansubs-v14.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "DantalianSubs",
+        "lang": "es",
+        "id": "6776314077223896588",
+        "baseUrl": "https://dantaliansubs.moe",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: FallenSubs",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.fallensubs",
     "apk": "aniyomi-es.fallensubs-v14.4.apk",
