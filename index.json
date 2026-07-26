@@ -2,10 +2,10 @@
   {
     "name": "Aniyomi: Collected Notes",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.collectednotes",
-    "apk": "aniyomi-all.collectednotes-v14.7.apk",
+    "apk": "aniyomi-all.collectednotes-v14.8.apk",
     "lang": "all",
-    "code": 7,
-    "version": "14.7",
+    "code": 8,
+    "version": "14.8",
     "nsfw": 0,
     "sources": [
       {
@@ -20,10 +20,10 @@
   {
     "name": "Aniyomi: Google Drive",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.googledrive",
-    "apk": "aniyomi-all.googledrive-v14.26.apk",
+    "apk": "aniyomi-all.googledrive-v14.27.apk",
     "lang": "all",
-    "code": 26,
-    "version": "14.26",
+    "code": 27,
+    "version": "14.27",
     "nsfw": 0,
     "sources": [
       {
@@ -38,10 +38,10 @@
   {
     "name": "Aniyomi: MediaFire",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.mediafire",
-    "apk": "aniyomi-all.mediafire-v14.7.apk",
+    "apk": "aniyomi-all.mediafire-v14.8.apk",
     "lang": "all",
-    "code": 7,
-    "version": "14.7",
+    "code": 8,
+    "version": "14.8",
     "nsfw": 0,
     "sources": [
       {
@@ -56,10 +56,10 @@
   {
     "name": "Aniyomi: MEGA",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.meganz",
-    "apk": "aniyomi-all.meganz-v14.9.apk",
+    "apk": "aniyomi-all.meganz-v14.10.apk",
     "lang": "all",
-    "code": 9,
-    "version": "14.9",
+    "code": 10,
+    "version": "14.10",
     "nsfw": 0,
     "sources": [
       {
@@ -99,10 +99,10 @@
   {
     "name": "Aniyomi: BeatZ Anime",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.beatzanime",
-    "apk": "aniyomi-es.beatzanime-v14.5.apk",
+    "apk": "aniyomi-es.beatzanime-v14.6.apk",
     "lang": "es",
-    "code": 5,
-    "version": "14.5",
+    "code": 6,
+    "version": "14.6",
     "nsfw": 0,
     "sources": [
       {
@@ -117,10 +117,10 @@
   {
     "name": "Aniyomi: DantalianSubs",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.dantaliansubs",
-    "apk": "aniyomi-es.dantaliansubs-v14.3.apk",
+    "apk": "aniyomi-es.dantaliansubs-v14.4.apk",
     "lang": "es",
-    "code": 3,
-    "version": "14.3",
+    "code": 4,
+    "version": "14.4",
     "nsfw": 0,
     "sources": [
       {
@@ -135,10 +135,10 @@
   {
     "name": "Aniyomi: FallenSubs",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.fallensubs",
-    "apk": "aniyomi-es.fallensubs-v14.6.apk",
+    "apk": "aniyomi-es.fallensubs-v14.7.apk",
     "lang": "es",
-    "code": 6,
-    "version": "14.6",
+    "code": 7,
+    "version": "14.7",
     "nsfw": 0,
     "sources": [
       {
@@ -171,10 +171,10 @@
   {
     "name": "Aniyomi: Wing Zero Plus",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.wingzeroplus",
-    "apk": "aniyomi-es.wingzeroplus-v14.9.apk",
+    "apk": "aniyomi-es.wingzeroplus-v14.10.apk",
     "lang": "es",
-    "code": 9,
-    "version": "14.9",
+    "code": 10,
+    "version": "14.10",
     "nsfw": 0,
     "sources": [
       {
