@@ -151,6 +151,24 @@
     ]
   },
   {
+    "name": "Aniyomi: Gakuensai Fansub",
+    "pkg": "eu.kanade.tachiyomi.animeextension.es.gakuensai",
+    "apk": "aniyomi-es.gakuensai-v14.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Gakuensai Fansub",
+        "lang": "es",
+        "id": "7944539832967560741",
+        "baseUrl": "https://www.gakuensai.xyz",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Vampir no Fansub",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.vampirnofansub",
     "apk": "aniyomi-es.vampirnofansub-v14.1.apk",
