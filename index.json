@@ -38,10 +38,10 @@
   {
     "name": "Aniyomi: MediaFire",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.mediafire",
-    "apk": "aniyomi-all.mediafire-v14.11.apk",
+    "apk": "aniyomi-all.mediafire-v14.12.apk",
     "lang": "all",
-    "code": 11,
-    "version": "14.11",
+    "code": 12,
+    "version": "14.12",
     "nsfw": 0,
     "sources": [
       {
@@ -153,10 +153,10 @@
   {
     "name": "Aniyomi: Gakuensai Fansub",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.gakuensai",
-    "apk": "aniyomi-es.gakuensai-v14.2.apk",
+    "apk": "aniyomi-es.gakuensai-v14.3.apk",
     "lang": "es",
-    "code": 2,
-    "version": "14.2",
+    "code": 3,
+    "version": "14.3",
     "nsfw": 1,
     "sources": [
       {
