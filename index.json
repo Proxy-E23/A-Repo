@@ -133,6 +133,24 @@
     ]
   },
   {
+    "name": "Aniyomi: El Abismo de Darkrai",
+    "pkg": "eu.kanade.tachiyomi.animeextension.es.elabismodedarkrai",
+    "apk": "aniyomi-es.elabismodedarkrai-v14.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "El Abismo de Darkrai",
+        "lang": "es",
+        "id": "5290005718539605241",
+        "baseUrl": "https://sites.google.com/view/elabismodedarkrai",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: FallenSubs",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.fallensubs",
     "apk": "aniyomi-es.fallensubs-v14.12.apk",
