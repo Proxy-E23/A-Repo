@@ -56,10 +56,10 @@
   {
     "name": "Aniyomi: MEGA",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.meganz",
-    "apk": "aniyomi-all.meganz-v14.13.apk",
+    "apk": "aniyomi-all.meganz-v14.15.apk",
     "lang": "all",
-    "code": 13,
-    "version": "14.13",
+    "code": 15,
+    "version": "14.15",
     "nsfw": 0,
     "sources": [
       {
@@ -135,10 +135,10 @@
   {
     "name": "Aniyomi: FallenSubs",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.fallensubs",
-    "apk": "aniyomi-es.fallensubs-v14.10.apk",
+    "apk": "aniyomi-es.fallensubs-v14.12.apk",
     "lang": "es",
-    "code": 10,
-    "version": "14.10",
+    "code": 12,
+    "version": "14.12",
     "nsfw": 0,
     "sources": [
       {
