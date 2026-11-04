@@ -18,6 +18,24 @@
     ]
   },
   {
+    "name": "Aniyomi: Drime",
+    "pkg": "eu.kanade.tachiyomi.animeextension.all.drime",
+    "apk": "aniyomi-all.drime-v14.2.apk",
+    "lang": "all",
+    "code": 2,
+    "version": "14.2",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Drime",
+        "lang": "all",
+        "id": "4845502299320494002",
+        "baseUrl": "https://app.drime.cloud",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Google Drive",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.googledrive",
     "apk": "aniyomi-all.googledrive-v14.31.apk",
