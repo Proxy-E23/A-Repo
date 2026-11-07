@@ -74,10 +74,10 @@
   {
     "name": "Aniyomi: MEGA",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.meganz",
-    "apk": "aniyomi-all.meganz-v14.18.apk",
+    "apk": "aniyomi-all.meganz-v14.21.apk",
     "lang": "all",
-    "code": 18,
-    "version": "14.18",
+    "code": 21,
+    "version": "14.21",
     "nsfw": 0,
     "sources": [
       {
@@ -153,10 +153,10 @@
   {
     "name": "Aniyomi: El Abismo de Darkrai",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.elabismodedarkrai",
-    "apk": "aniyomi-es.elabismodedarkrai-v14.5.apk",
+    "apk": "aniyomi-es.elabismodedarkrai-v14.6.apk",
     "lang": "es",
-    "code": 5,
-    "version": "14.5",
+    "code": 6,
+    "version": "14.6",
     "nsfw": 0,
     "sources": [
       {
@@ -171,10 +171,10 @@
   {
     "name": "Aniyomi: FallenSubs",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.fallensubs",
-    "apk": "aniyomi-es.fallensubs-v14.14.apk",
+    "apk": "aniyomi-es.fallensubs-v14.15.apk",
     "lang": "es",
-    "code": 14,
-    "version": "14.14",
+    "code": 15,
+    "version": "14.15",
     "nsfw": 0,
     "sources": [
       {
