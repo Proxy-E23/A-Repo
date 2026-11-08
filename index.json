@@ -2,10 +2,10 @@
   {
     "name": "Aniyomi: Collected Notes",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.collectednotes",
-    "apk": "aniyomi-all.collectednotes-v14.12.apk",
+    "apk": "aniyomi-all.collectednotes-v14.13.apk",
     "lang": "all",
-    "code": 12,
-    "version": "14.12",
+    "code": 13,
+    "version": "14.13",
     "nsfw": 0,
     "sources": [
       {
@@ -38,10 +38,10 @@
   {
     "name": "Aniyomi: Google Drive",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.googledrive",
-    "apk": "aniyomi-all.googledrive-v14.31.apk",
+    "apk": "aniyomi-all.googledrive-v14.33.apk",
     "lang": "all",
-    "code": 31,
-    "version": "14.31",
+    "code": 33,
+    "version": "14.33",
     "nsfw": 0,
     "sources": [
       {
@@ -135,10 +135,10 @@
   {
     "name": "Aniyomi: DantalianSubs",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.dantaliansubs",
-    "apk": "aniyomi-es.dantaliansubs-v14.8.apk",
+    "apk": "aniyomi-es.dantaliansubs-v14.9.apk",
     "lang": "es",
-    "code": 8,
-    "version": "14.8",
+    "code": 9,
+    "version": "14.9",
     "nsfw": 0,
     "sources": [
       {
