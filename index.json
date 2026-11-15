@@ -1,5 +1,23 @@
 [
   {
+    "name": "Aniyomi: AniGram",
+    "pkg": "eu.kanade.tachiyomi.animeextension.all.anigram",
+    "apk": "aniyomi-all.anigram-v14.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "AniGram",
+        "lang": "all",
+        "id": "6067522525912338411",
+        "baseUrl": "https://telegram.org",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Collected Notes",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.collectednotes",
     "apk": "aniyomi-all.collectednotes-v14.13.apk",
