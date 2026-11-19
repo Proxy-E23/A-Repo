@@ -207,10 +207,10 @@
   {
     "name": "Aniyomi: Gakuensai Fansub",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.gakuensai",
-    "apk": "aniyomi-es.gakuensai-v14.6.apk",
+    "apk": "aniyomi-es.gakuensai-v16.7.apk",
     "lang": "es",
-    "code": 6,
-    "version": "14.6",
+    "code": 7,
+    "version": "16.7",
     "nsfw": 1,
     "sources": [
       {
